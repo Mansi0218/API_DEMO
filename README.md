@@ -5,7 +5,7 @@ language - C#,
 IDE - VISUAL STUDIO 2022
 
 
-using Student.cs file and StudentController.cs in Cntroller folder ...
+using Student.cs file and StudentController.cs in Controller folder ...
 ![Screenshot 2024-03-21 132524](https://github.com/Mansi0218/API_DEMO/assets/95520980/c096bf1e-60c3-49ec-b642-97873d0cb4f6)
 
 
